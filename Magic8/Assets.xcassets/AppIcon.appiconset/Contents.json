@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "predict-icon.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
